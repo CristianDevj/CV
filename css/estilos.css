@@ -1,0 +1,89 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: #484848;
+}
+
+section {
+    background-color: #fff;
+    border: 0px;
+    padding: 0px;
+    margin: 0px auto;
+    width: 215mm;
+    height: 309mm;
+}
+
+img {
+    border-radius: 50%;
+    width: 170px;
+    height: 165px;
+    float: left;
+    padding: 50px;
+    padding-top: 6px;
+    padding-bottom: 3px;
+}
+
+
+.two-columns {
+    column-count: 2;
+    column-gap: 0px;
+
+}
+
+h1  {
+    color: #fff;
+    font-size: 35px;
+    background-color: #535152;
+    padding: 0px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #7C8587;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h3 {
+    font-size: 16px;
+    color: #484848;
+    margin-bottom: 4px;
+}
+
+.fechas {
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+
+p {
+    border: 0px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.primer_columna {
+    margin: 0px;
+    border: 0px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-bottom: 180px;
+}
+
+.salto {
+    padding-top: 20px;
+}
+
+.segunda-columna {
+    background-color: #E9E9E9;
+    margin: 0px;
+    border: 0px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    padding-right: 16px;
+    padding-left: 35px;
+    
+}
